@@ -67,7 +67,7 @@ export default function Contact() {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Get In Touch</h2>
           <div className="w-20 h-1 bg-primary mx-auto rounded-full"></div>
           <p className="mt-4 text-foreground/70 max-w-2xl mx-auto">
-            Punya ide proyek atau butuh editor untuk sosial media Anda? Mari berdiskusi!
+            Punya ide projek atau butuh editor untuk sosial media Anda? Mari berdiskusi!
           </p>
         </motion.div>
 
